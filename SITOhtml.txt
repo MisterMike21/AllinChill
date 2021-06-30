@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+
+
+<html>
+      <title>ALL IN CHILL SERVER</title>
+
+
+<head>
+
+
+<body>
+<h1>ALL IN CHILL WEB SITE</h1>
+<p>in questo sito potete trovare tutte le info riguardanti il server All in Chill
+   come lista dei bot presenti, info varie , lista staff , e notizie!
+</p>
+
+
+
+</body>
+
+
+
+</head>
+
+
+</html>
